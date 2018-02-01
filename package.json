@@ -1,0 +1,22 @@
+{
+  "name": "automatejobsearch",
+  "version": "1.0.0",
+  "description": "A frictionless service to automate the retrival of job opportunites direct to your inbox",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mattsmithies/AutomateJobSearch.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mattsmithies/AutomateJobSearch/issues"
+  },
+  "homepage": "https://github.com/mattsmithies/AutomateJobSearch#readme",
+  "dependencies": {
+    "surge": "^0.19.0"
+  }
+}
